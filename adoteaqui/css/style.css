@@ -1,35 +1,44 @@
-
 body{
-    color:rgb(18, 14, 14);
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.container{
-    width:80%;
-    background-color: white
-    margin-left: 10%;
-}
-
-.mainav{
-    background-color:olive;
-    color: darkred;
-    margin-left: 10%;
-}
-
-.mainav li{
-    display: inline;
+    background: white url(../dog.jpeg);
+    background-size: 100%;
     padding: 5%;
+
     
 }
 
-.mainav li a{
-    text-decoration:none;
-font-size: 14px;
-color: aliceblue;
+.mainav1{
+    background-color:black;
+    color:yellow;
+    text-align: left;
+    width: 20%;
+    height: 10%;
+    margin: left;
+    float:left;
+
 }
 
-.mainav1{
-    background-color: black;
-    float:left
+.mainav2{
+    background-color: yellow;
+    color: black;
+    float: right;
+    width: 80%;
+    height: 10%;
+    text-decoration:none;
+    
+}
+
+.mainav2 li{
+    display:inline;
+    padding: 5%;
+    text-decoration: none;
+}
+
+.content{
+   
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: black;
+   background-color: white;
+   opacity: 60%;
+   float: left;
+ 
 }
