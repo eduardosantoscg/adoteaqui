@@ -1,7 +1,7 @@
 body{
     background: white url(../dog.jpeg);
     background-size: 100%;
-    padding: 5%;
+    padding: 3%;
 
     
 }
@@ -41,4 +41,10 @@ body{
    opacity: 60%;
    float: left;
  
+}
+.mainleft{
+    background-color: yellow;
+    opacity: 70%;
+    float: right;
+
 }
