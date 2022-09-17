@@ -48,3 +48,11 @@ body{
     float: right;
 
 }
+
+.content1{
+   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    background-color: white;
+  text-align:center;
+ }
